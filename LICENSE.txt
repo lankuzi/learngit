@@ -1,1 +1,5 @@
 hello git!
+
+```js
+console.log('Hello Git!')
+```
